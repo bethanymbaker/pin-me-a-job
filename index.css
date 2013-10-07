@@ -1,8 +1,10 @@
 @charset "UTF-8";
-#myDiv {
+#wrapper {
 	overflow: hidden;
 	width: 100%;
 }
 canvas {
 	margin: 5px;
+	float: left;
+	border: #999 1px solid;
 }
